@@ -1,0 +1,22 @@
+
+DIRECTORY LISTING:
+- Add a list of board members, label the members who are board members
+- Directory should be accessable to ALL people whether they are a member or not. We want to transfer it over to the main website or make it accessible to everyone on the portal.  ** done**
+	- Althogh we want it accessible to everyone, only members should be able to make a directory listing.**done**
+- ON PROFILE: We need to add the fields for social media link, company logo, personal logo **done**
+- ON DIRECTORY CARD VIEW ON DIRECTORY PAGE: Name, Company Name, Email, Phone #, and HUD ID. **done**
+
+HUD ID can be found within the dropbox file. The members will add their own HUD When they login to their account. **done**
+
+PORTAL:
+- Can we add a forum or Q&A for members to a section on the portal? ** pending**
+
+REPORT:
+- How can we setup a report that delivers member list every month? ** pending**
+
+- Change "Training" to "Expert's Advice"
+- In this section we want to add podcasts
+
+- Can we integrate a Facebook group feed into the portal?
+- If so let's add another section or if you have any recommendations to where to put it.
+

@@ -1,0 +1,20 @@
+"userDataPayload": {
+		 "webkey": "qCSqRbbNSQsSUn_aON3sS",
+    "postcode": "SP6 3EP",
+    "emailid": "guruwiz2@gmail.com",
+    "customerType": "elecgas",
+    "sameSupplier": "Yes",
+    "meterType": "E7",
+    "distId": "20",
+    "DualSupplier": "British Gas",
+    "DualPayType": "1",
+    "skipbank": false,
+    "DualSupplierTariff": "Cap Tracker Plus Mar 2022",
+    "DualSupplierSTDTariff": "Standard Variable",
+    "SpendOption": "spend",
+    "GasValue": "50",
+    "GasPeriod": "month",
+    "ElecValue": "50",
+    "ElecPeriod": "month",
+    "NightPercentage": "0.42"
+	}
